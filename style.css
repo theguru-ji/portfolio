@@ -1,0 +1,235 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(41, 26, 26);
+    color: white;
+    height: 100px;
+
+
+
+}
+
+header ul li {
+    display: inline-block;
+    padding: 22px 15px;
+    font-size: 18px;
+
+}
+
+header ul li h2 {
+    display: inline-block;
+    padding: 10px 421px 0 33px;
+}
+
+header h2 {
+    display: inline-block;
+}
+
+header ul li h3 {
+    display: inline-block;
+    margin: 0px 4px 0 333px;
+    padding: 10px 33px 10px 33px;
+    border: 2px solid rgb(228, 194, 194);
+    border-radius: 25px;
+    cursor: pointer;
+
+
+
+}
+
+main {
+    height: 100vh;
+    width: 100vw;
+    background-color: #382727;
+    color: white;
+    background-image: url('man.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    display: grid;
+    background-size: 100vh;
+
+}
+
+main p {
+    font-size: 29px;
+    margin: 120px 50px -96px 264px;
+}
+
+main h2 {
+    font-size: 35px;
+    margin: -61px 50px 50px 251px;
+
+}
+
+main h4 {
+    font-size: 30px;
+    margin: -218px 68px 146px 248px;
+}
+
+.page2 {
+   background-color: #533535;
+    color: white;
+    height: 100vh;
+    background-image: url('man.jpg');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 70vh;
+
+}
+
+.container {
+    margin: -66px 154px -30px 720px;
+    padding: 131px 0;
+    height: 28vh;
+    width: 60vh;
+
+    color: white;
+
+}
+
+.container h2 {
+    margin: 50px 38px 43px 3px;
+    font-size: 35px;
+}
+
+.container h3 {
+    margin: 50px 38px 43px 3px;
+    font-size: 29px;
+}
+
+.container p {
+    margin: 50px 38px 43px 3px;
+    font-size: 21px;
+}
+
+.page3 {
+    background-color: #4d3131;
+    color: white;
+    height: 100vh;
+}
+
+.page3 h1 {
+    margin: 0px 50px 70px 713px;
+}
+
+.box1 {
+    background-color: rgb(15, 15, 12);
+
+    color: brown;
+    display: inline-block;
+    border: 3px solid red;
+    border-radius: 5px;
+    margin: 76px 57px 57px 380px;
+}
+
+.box1 h2 {
+    margin: 7px;
+}
+
+.box2 {
+    background-color: rgb(1, 1, 1);
+
+    color: brown;
+    display: inline-block;
+    border: 3px solid red;
+    border-radius: 5px;
+    margin: 80px;
+}
+
+.box2 h2 {
+    margin: 7px;
+}
+
+.box3 {
+    background-color: rgb(1, 1, 1);
+
+    color: brown;
+    display: inline-block;
+    border: 3px solid red;
+    border-radius: 5px;
+    margin: 80px;
+}
+
+.box3 h2 {
+    margin: 7px;
+}
+
+.box4 {
+    background-color: rgb(1, 1, 1);
+
+    color: brown;
+    display: inline-block;
+    border: 3px solid red;
+    border-radius: 5px;
+    margin: 80px 108px;
+
+}
+
+.box4 h2 {
+    margin: 7px;
+}
+
+.box5 {
+    background-color: rgb(1, 1, 1);
+    color: brown;
+    display: inline-block;
+    border: 3px solid red;
+    border-radius: 5px;
+    margin: 75px 80px 83px 547px;
+
+}
+
+.box5 h2 {
+    margin: 7px;
+}
+
+.box6 {
+    background-color: rgb(1, 1, 1);
+
+    color: brown;
+    display: inline-block;
+    border: 3px solid red;
+    border-radius: 5px;
+    margin: 80px;
+
+}
+
+.box6 h2 {
+    margin: 7px;
+}
+
+
+.CV {
+    text-align: center;
+    color: rgb(167, 209, 126);
+    text-align: center;
+    border: 3px solid red;
+
+    display: inline-grid;
+    margin: 10px 696px;
+    background-color: #5d481f;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.pageend {
+    height: 20vh;
+    background-color: rgb(28, 28, 4);
+    color: white
+}
+
+.pageend h3 {
+    color: red;
+    font-size: 30px;
+    margin: 0 635px;
+
+}
+
+.pageend h6 {
+    color: red;
+    font-size: 20px;
+    margin: 0 500px;
+}
